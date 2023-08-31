@@ -21,6 +21,7 @@ The goal is to leverage data from multiple APIs using visualizations and statist
   * The data can return the average restaurant rating within 1,000 meters radius of a specified bike station. As a result, the users of the data can select/avoid bike stations according to the likelihood of finding a quality restaurant nearby.
   * The data can find the top restaurants in Toronto according to their rating and number of reviews which would help users with choosing a highly rated/reviewed restaurant.
   * The data revealed that most bike stations have 0 bikes available which indicates that city bike users should research their chosen bike station to ensure there will be a bike available for use.
+![readme_images](https://github.com/k-thang/Python-Project/assets/133152943/aefdb983-a6fa-461c-bba5-8a6ea6a5db62)
 
 ## Challenges 
 * Creating the functions to retrieve the data from each API and then parsing the responses into a dataframe.
